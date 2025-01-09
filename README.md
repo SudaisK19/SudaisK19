@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudaisk19&label=Profile%20views&color=0e75b6&style=flat" alt="sudaisk19" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=sudaisk19"><img src="https://github.com/sudaisk19/github-profile-trophy" alt="sudaisk19" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=Sudaisk19"><img src="https://github.com/ryo-ma/github-profile-trophy" alt="sudaisk19" /></a> </p>
 
 - 🔭 I’m currently **Enhancing my skills in full-stack development**
 
