@@ -4,6 +4,7 @@
   Currently pursuing my Bachelor's degree at FAST-NUCES Karachi.
 </h3>
 
+<!-- Profile Views -->
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=sudaisk19&label=Profile%20views&color=0e75b6&style=flat"
@@ -11,9 +12,8 @@
   />
 </p>
 
-<!-- Updated Trophy Section -->
+<!-- GitHub Trophies (Dark theme) -->
 <p align="left">
-  <!-- GitHub Profile Trophy - Dark Theme -->
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
     target="_blank"
@@ -171,26 +171,26 @@
   </a>
 </p>
 
-<p>
+<!-- Top Languages Card (Dark theme) -->
+<p align="left">
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sudaisk19&show_icons=true&locale=en&layout=compact"
-    alt="sudaisk19"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudaisk19&show_icons=true&locale=en&layout=compact&theme=dark"
+    alt="sudaisk19-top-langs"
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sudaisk19&show_icons=true&locale=en"
-    alt="sudaisk19"
+<!-- GitHub Stats Card (Dark theme) -->
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sudaisk19&show_icons=true&locale=en&theme=dark"
+    alt="sudaisk19-github-stats"
   />
 </p>
 
-<p>
+<!-- GitHub Streak Stats (Dark theme) -->
+<p align="left">
   <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sudaisk19&"
-    alt="sudaisk19"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sudaisk19&theme=dark"
+    alt="sudaisk19-streak-stats"
   />
 </p>
