@@ -187,10 +187,10 @@
   />
 </p>
 
-<!-- GitHub Streak Stats (Dark theme) -->
+<!-- GitHub Streak Stats (Dark theme) - NEW DOMAIN -->
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sudaisk19&theme=dark"
+    src="https://streak-stats.demolab.com/?user=sudaisk19&theme=dark"
     alt="sudaisk19-streak-stats"
   />
 </p>
