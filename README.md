@@ -27,7 +27,7 @@
 </p>
 
 - 🔭 I’m currently **Enhancing my skills in full-stack development**  
-- 🌱 I’m currently learning **Advanced React and Node.js frameworks**  
+- 🌱 I’m currently learning **AI/ML**  
 - 👯 I’m looking to collaborate on **Problem-solving challenges**  
 - 🤝 I’m looking for help with **Guidance on cloud infrastructure and DevOps**  
 - 💬 Ask me about **Programming languages like C, C++, Python, JavaScript, Building web applications with React and Node.js, and more…**  
